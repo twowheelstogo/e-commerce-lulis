@@ -29,7 +29,7 @@ endef
 define SUBPROJECT_REPOS
 https://github.com/twowheelstogo/reaction-hydra-lulis.git,reaction-hydra,v3.0.0 \
 https://github.com/twowheelstogo/reaction-lulis.git,reaction,trunk \
-https://github.com/twowheelstogo/reaction-identity-lulis.git,reaction-identity,v3.3.0 \
+https://github.com/twowheelstogo/reaction-identity-lulis.git,reaction-identity,trunk \
 https://github.com/twowheelstogo/reaction-admin-lulis.git,reaction-admin,trunk \
 https://github.com/twowheelstogo/storefront-lulis.git,example-storefront,trunk
 endef
