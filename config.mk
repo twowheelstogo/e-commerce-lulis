@@ -28,10 +28,10 @@ endef
 # Projects will be started in this order
 define SUBPROJECT_REPOS
 https://github.com/twowheelstogo/reaction-hydra-lulis.git,reaction-hydra,v3.0.0 \
-https://github.com/twowheelstogo/reaction-lulis.git,reaction,v3.11.1 \
+https://github.com/twowheelstogo/reaction-lulis.git,reaction,trunk \
 https://github.com/twowheelstogo/reaction-identity-lulis.git,reaction-identity,v3.3.0 \
-https://github.com/twowheelstogo/reaction-admin-lulis.git,reaction-admin,v3.0.0-beta.12 \
-https://github.com/twowheelstogo/storefront-lulis.git,example-storefront,v4.0.1
+https://github.com/twowheelstogo/reaction-admin-lulis.git,reaction-admin,trunk \
+https://github.com/twowheelstogo/storefront-lulis.git,example-storefront,trunk
 endef
 
 # These are all the plugins that `make clone-api-plugins` will clone.

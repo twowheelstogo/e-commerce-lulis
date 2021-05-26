@@ -5,3 +5,11 @@
 /config/local/
 !config/local/.gitkeep
 config.local.mk
+google-cloud-sdk-341.0.0-linux-x86_64.tar.gz
+/google-cloud-sdk
+get_helm.sh
+/example-storefront
+/reaction-admin
+/reaction-hydra
+/reaction
+/reaction-identity
