@@ -30,8 +30,8 @@ define SUBPROJECT_REPOS
 https://github.com/twowheelstogo/reaction-hydra-lulis.git,reaction-hydra,trunk \
 https://github.com/twowheelstogo/reaction-lulis.git,reaction,trunk \
 https://github.com/twowheelstogo/reaction-identity-lulis.git,reaction-identity,trunk \
-https://github.com/twowheelstogo/reaction-admin-lulis.git,reaction-admin,f_odoo \
-https://github.com/twowheelstogo/storefront-lulis.git,example-storefront,development 
+https://github.com/twowheelstogo/reaction-admin-lulis.git,reaction-admin,trunk \
+https://github.com/twowheelstogo/storefront-lulis.git,example-storefront,trunk 
 endef
 
 # These are all the plugins that `make clone-api-plugins` will clone.
